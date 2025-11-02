@@ -1,0 +1,17 @@
+h1 {
+  color: #1b5347;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  
+}
+/* コンテナから大きいもの順に指定をする */
+.container {
+  width: 200px;
+  margin: 0 auto;
+  background-color: #ddabb5;
+  
+}
+
+body{
+    background-color:#1b5347;
+}
